@@ -15,3 +15,7 @@ The repos below are remote MCP servers — connectors that let AI assistants (li
 ---
 
 All three use the same auth pattern: GitHub OAuth + Redis token persistence, deployable to any container platform (Render, Railway, Fly.io). Fork any of them to run your own instance.
+
+---
+
+All code here was built with AI assistance ([Claude Code](https://claude.ai/code)) — vibe-coded with the best intentions. Security has been a priority throughout, but nothing has been independently audited. Use at your own risk. Issues and pull requests are very welcome.
